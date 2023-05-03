@@ -5,7 +5,6 @@ This project was created using [vite-plugin-react-pages](https://github.com/vite
 In this project, we learn how to use the redux toolkit in a simple way.
 
 Implementation:
-***
 1. Slice
 2. Provider
 3. Actions
